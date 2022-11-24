@@ -1,0 +1,15 @@
+E:\DEVinHouse\compartilhados\jokenpo\bin\Debug\net6.0\jokenpo.exe
+E:\DEVinHouse\compartilhados\jokenpo\bin\Debug\net6.0\jokenpo.deps.json
+E:\DEVinHouse\compartilhados\jokenpo\bin\Debug\net6.0\jokenpo.runtimeconfig.json
+E:\DEVinHouse\compartilhados\jokenpo\bin\Debug\net6.0\jokenpo.dll
+E:\DEVinHouse\compartilhados\jokenpo\bin\Debug\net6.0\jokenpo.pdb
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.csproj.AssemblyReference.cache
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.AssemblyInfoInputs.cache
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.AssemblyInfo.cs
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.csproj.CoreCompileInputs.cache
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.dll
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\refint\jokenpo.dll
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.pdb
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\jokenpo.genruntimeconfig.cache
+E:\DEVinHouse\compartilhados\jokenpo\obj\Debug\net6.0\ref\jokenpo.dll
